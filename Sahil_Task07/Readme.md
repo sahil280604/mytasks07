@@ -1,0 +1,1 @@
+Hi, Mentor. At some pointi got stuck like centering the contents. However with the use of flex box I manage to center them.
